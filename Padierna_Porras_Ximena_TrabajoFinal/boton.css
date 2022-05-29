@@ -1,0 +1,27 @@
+﻿div {
+margin: 20px 0;
+}
+
+.btn {
+   background: #FF3C3C;
+     color: white;
+     font-size:16px;
+     text-decoration:none;
+     padding:15px 20px;
+     display: inline-block;
+     margin:0 10px;
+}
+
+.btn1: hover {
+opacity:.8;
+}
+
+.medium1 {
+   font-size:16px;
+   padding: 15px 20px;
+   border-radius:150px;
+}
+
+.rosa {
+   background: #FFC3E2;
+}
